@@ -1,0 +1,42 @@
+{
+     "Pakistan":{
+          "0":"Islamabad",
+          "1":"240 Million",
+          "2":"South Asia"
+     },
+     "Saudi Arabia":{
+          "0":"Riyadh",
+          "1":"36 Million",
+          "2":"Middle East"
+     },
+     "Japan":{
+          "0":"Tokyo",
+          "1":"125 Million",
+          "2":"East Asia"
+     },
+     "United Kingdom":{
+          "0":"London",
+          "1":"67 Million",
+          "2":"Europe"
+     },
+     "Canada":{
+          "0":"Ottawa",
+          "1":"40 Million",
+          "2":"North America"
+     },
+     "Egypt":{
+          "0":"Cairo",
+          "1":"112 Million",
+          "2":"Africa"
+     },
+     "Brazil":{
+          "0":"Brasilia",
+          "1":"215 Million",
+          "2":"South America"
+     },
+     "Australia":{
+          "0":"Canberra",
+          "1":"26 Million",
+          "2":"Oceania"
+     }
+}
