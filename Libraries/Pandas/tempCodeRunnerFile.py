@@ -1,21 +1,7 @@
 import pandas as pd
-# 8 Countries ki dictionary jahan values ek list hain
-countries_dict = {
-    "Pakistan": ["Islamabad", "240 Million", "South Asia"],
-    "Saudi Arabia": ["Riyadh", "36 Million", "Middle East"],
-    "Japan": ["Tokyo", "125 Million", "East Asia"],
-    "United Kingdom": ["London", "67 Million", "Europe"],
-    "Canada": ["Ottawa", "40 Million", "North America"],
-    "Egypt": ["Cairo", "112 Million", "Africa"],
-    "Brazil": ["Brasilia", "215 Million", "South America"],
-    "Australia": ["Canberra", "26 Million", "Oceania"]
-}
+fa= pd.read_csv(r"D:\sql_ultimate\sql-ultimate-course-main\datasets\orders.csv", encoding='utf-8')
 
-# Kisi specific country ki details access karne ka tareeqa
-# print(countries_dict["Pakistan"])  # Output: ['Islamabad', '240 Million', 'South Asia']
+# print(fa.head(6))
+# print(fa.tail(3))
 
-data_= pd.DataFrame(countries_dict)
-print(data_)
-# into jason
-data_.to_json('data-dict_json.json',indent=5)
-# read the 
+print(fa.info())
