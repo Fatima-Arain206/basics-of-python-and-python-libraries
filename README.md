@@ -40,3 +40,18 @@ To explore or run any of the notebooks/scripts locally, follow these quick steps
 ```bash
 git clone [https://github.com/Fatima-Arain206/basics-of-python-and-python-libraries.git](https://github.com/Fatima-Arain206/basics-of-python-and-python-libraries.git)
 cd basics-of-python-and-python-libraries
+### 2. Set Up the Environment
+Make sure you have Python installed. You can install the required libraries (like NumPy and Jupyter) via pip:
+pip install numpy jupyter
+
+#####Future Roadmap
+[ ] Implement advanced Data Manipulation with Pandas.
+
+[ ] Add Data Visualization modules using Matplotlib and Seaborn.
+
+[ ] Introduce Exploratory Data Analysis (EDA) on real-world datasets.
+
+[ ] Kickstart core Machine Learning algorithms with Scikit-Learn.
+
+Author
+Developed with 💻 and ☕ by Fatima Arain. Feel free to connect, star ⭐ the repo, or drop feedback as I progress on my ML journey!
